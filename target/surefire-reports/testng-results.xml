@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-31T13:15:45 IST" name="Suite" finished-at="2023-05-31T13:16:38 IST" duration-ms="53300">
+    <groups>
+    </groups>
+    <test started-at="2023-05-31T13:15:45 IST" name="Test" finished-at="2023-05-31T13:16:38 IST" duration-ms="53300">
+      <class name="insuranceCalculator_Motercycle.EndTOEndTests_motercycle">
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:insuranceCalculator_Motercycle.EndTOEndTests_motercycle@21694e53]" started-at="2023-05-31T13:15:45 IST" name="setupMethod" finished-at="2023-05-31T13:15:56 IST" duration-ms="11516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="insuranceCalculate(java.lang.Object)[pri:0, instance:insuranceCalculator_Motercycle.EndTOEndTests_motercycle@21694e53]" started-at="2023-05-31T13:15:56 IST" name="insuranceCalculate" data-provider="vehData" finished-at="2023-05-31T13:16:03 IST" duration-ms="7128" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Vehicle_ListPrice=30000.0, Vehicle_Performance=300.0, Gender=Male, TC No=1.0, Damage Insurance=Partial Coverage, First_Name=Deepak, Vehicle_LPN=234565.0, Courtesy Car=Yes, Start Date=12-Aug-2023, SelectOption=Silver, Zip Code=226201.0, DOB=10-Sep-2000, Street Address=Lucknow Uttar Pardesh, Optional Products=Euro Protection, Vehicle_AM=900.0, Vehicle_Make=BMW, Merit Rating=Bonus 2, Insurance_sum=3.000.000,00, Vehicle_DOM=12-Apr-2022, Price_Validation_Ultimate=2552.0, City=Lucknow, Price_Validation_Silver=682.0, Hobbies=Speeding,Other, Price_Validation_Platinum=1340.0, Price_Validation_Gold=231.0, Occupation=Farmer, TC Name=Verify Insurance Premium for BMW Car, Last_Name=Vishwakarma, Vehicle_FuelType=Electric Power, Vehicle_NOS=4.0, Country=Australia}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insuranceCalculate -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:insuranceCalculator_Motercycle.EndTOEndTests_motercycle@21694e53]" started-at="2023-05-31T13:16:03 IST" name="cleanUp" finished-at="2023-05-31T13:16:04 IST" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:insuranceCalculator_Motercycle.EndTOEndTests_motercycle@21694e53]" started-at="2023-05-31T13:16:04 IST" name="setupMethod" finished-at="2023-05-31T13:16:13 IST" duration-ms="9127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="insuranceCalculate(java.lang.Object)[pri:0, instance:insuranceCalculator_Motercycle.EndTOEndTests_motercycle@21694e53]" started-at="2023-05-31T13:16:13 IST" name="insuranceCalculate" data-provider="vehData" finished-at="2023-05-31T13:16:20 IST" duration-ms="6608" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Vehicle_ListPrice=30000.0, Vehicle_Performance=300.0, Gender=Male, TC No=2.0, Damage Insurance=Partial Coverage, First_Name=Deepak, Vehicle_LPN=234565.0, Courtesy Car=Yes, Start Date=12-Aug-2023, SelectOption=Silver, Zip Code=226201.0, DOB=10-Sep-2000, Street Address=Lucknow Uttar Pardesh, Optional Products=Euro Protection, Vehicle_AM=900.0, Vehicle_Make=BMW, Merit Rating=Bonus 2, Insurance_sum=3.000.000,00, Vehicle_DOM=12-Apr-2022, Price_Validation_Ultimate=2552.0, City=Lucknow, Price_Validation_Silver=682.0, Hobbies=Speeding,Other, Price_Validation_Platinum=1340.0, Price_Validation_Gold=231.0, Occupation=Farmer, TC Name=Verify Insurance Premium for BMW Car, Last_Name=Vishwakarma, Vehicle_FuelType=Electric Power, Vehicle_NOS=4.0, Country=Australia}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insuranceCalculate -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:insuranceCalculator_Motercycle.EndTOEndTests_motercycle@21694e53]" started-at="2023-05-31T13:16:20 IST" name="cleanUp" finished-at="2023-05-31T13:16:20 IST" duration-ms="288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:insuranceCalculator_Motercycle.EndTOEndTests_motercycle@21694e53]" started-at="2023-05-31T13:16:20 IST" name="setupMethod" finished-at="2023-05-31T13:16:29 IST" duration-ms="9141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="insuranceCalculate(java.lang.Object)[pri:0, instance:insuranceCalculator_Motercycle.EndTOEndTests_motercycle@21694e53]" started-at="2023-05-31T13:16:29 IST" name="insuranceCalculate" data-provider="vehData" finished-at="2023-05-31T13:16:37 IST" duration-ms="8538" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Vehicle_ListPrice=30000.0, Vehicle_Performance=300.0, Gender=Male, TC No=3.0, Damage Insurance=Partial Coverage, First_Name=Deepak, Vehicle_LPN=234565.0, Courtesy Car=Yes, Start Date=12-Aug-2023, SelectOption=Silver, Zip Code=226201.0, DOB=10-Sep-2000, Street Address=Lucknow Uttar Pardesh, Optional Products=Euro Protection, Vehicle_AM=900.0, Vehicle_Make=BMW, Merit Rating=Bonus 2, Insurance_sum=3.000.000,00, Vehicle_DOM=12-Apr-2022, Price_Validation_Ultimate=2552.0, City=Lucknow, Price_Validation_Silver=682.0, Hobbies=Speeding,Other, Price_Validation_Platinum=1340.0, Price_Validation_Gold=231.0, Occupation=Farmer, TC Name=Verify Insurance Premium for BMW Car, Last_Name=Vishwakarma, Vehicle_FuelType=Electric Power, Vehicle_NOS=4.0, Country=Australia}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insuranceCalculate -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:insuranceCalculator_Motercycle.EndTOEndTests_motercycle@21694e53]" started-at="2023-05-31T13:16:38 IST" name="cleanUp" finished-at="2023-05-31T13:16:38 IST" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- insuranceCalculator_Motercycle.EndTOEndTests_motercycle -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
